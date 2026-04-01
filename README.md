@@ -1,10 +1,15 @@
 # Header
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=34B7EB&text=I'm Naman Chaddha!&height=150&fontSize=60" /> 
+  <p align="center">
+  <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=34B7EB&center=true&vCenter=true&width=700&height=70&lines=Hi!+I'm+Naman+Chaddha" alt="Typing SVG" />
+  </a>
+</p>
+</p>
 </p>
 
-I am an Information Technology undergrad Student at IIIT Bhopal,doing a parallel degree from IIT Madras in Data Science.
-💻 Passionate about Web Dev & AIML. Currently building Webdev projects. 
+I am an Information Technology undergrad Student at IIIT Bhopal,doing a parallel degree from IIT Madras in Data Science.<br>I'm passionate about Web Dev & AIML.<br>Currently building Webdev projects. 
 
 ## 🔧 Skills
 - Frontend: HTML5, CSS3, JavaScript (ES6+), Bootstrap/Tailwind CSS.
@@ -18,6 +23,7 @@ I am an Information Technology undergrad Student at IIIT Bhopal,doing a parallel
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23E34F26.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **Databases & Tools**
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -25,18 +31,11 @@ I am an Information Technology undergrad Student at IIIT Bhopal,doing a parallel
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ## 🏆 Competitive Programming
 I love solving algorithmic challenges and regularly participate in contests.
-
-<p align="left">
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_ID">
-    <img src="https://codechef-details.vercel.app/api/codechef?username=YOUR_CODECHEF_ID" alt="CodeChef Stats" />
-  </a>
-</p>
+Codechef rating:1505
 
 - **Language of Choice:** C++ / Python
 - **Focus:** Data Structures, Algorithms, and Mathematical Logic
 I specialize in building data-driven web applications using Python and MySQL, focusing on creating seamless user experiences with modern Frontend Frameworks.
-
-Codechef Rating: 1505(highest)
 <!--
 **NamanChaddha/NamanChaddha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
