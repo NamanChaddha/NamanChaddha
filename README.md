@@ -23,7 +23,7 @@ I am an Information Technology undergrad Student at IIIT Bhopal,doing a parallel
 
 I specialize in building data-driven web applications using Python and MySQL, focusing on creating seamless user experiences with modern Frontend Frameworks.
 
-Codechef Rating: [![CodeChef Stats](https://codechef-details.vercel.app/api/codechef?username=YOUR_CODECHEF_ID)](https://www.codechef.com/users/neat_youth_37)
+Codechef Rating: [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/neat_youth_37)
 <!--
 **NamanChaddha/NamanChaddha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
