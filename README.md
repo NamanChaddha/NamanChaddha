@@ -1,4 +1,7 @@
-## Hi there 👋 I'm Naman
+# Header
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=34B7EB&text=I'm%Naman%Chaddha!&height=150&fontSize=60" />
+</p>
 
 I am an Information Technology undergrad Student at IIIT Bhopal,doing a parallel degree from IIT Madras in Data Science.
 💻 Passionate about Web Dev & AIML. Currently building Webdev projects. 
@@ -20,10 +23,20 @@ I am an Information Technology undergrad Student at IIIT Bhopal,doing a parallel
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## 🏆 Competitive Programming
+I love solving algorithmic challenges and regularly participate in contests.
 
+<p align="left">
+  <a href="https://www.codechef.com/users/YOUR_CODECHEF_ID">
+    <img src="https://codechef-details.vercel.app/api/codechef?username=YOUR_CODECHEF_ID" alt="CodeChef Stats" />
+  </a>
+</p>
+
+- **Language of Choice:** C++ / Python
+- **Focus:** Data Structures, Algorithms, and Mathematical Logic
 I specialize in building data-driven web applications using Python and MySQL, focusing on creating seamless user experiences with modern Frontend Frameworks.
 
-Codechef Rating: [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/neat_youth_37)
+Codechef Rating: 1505(highest)
 <!--
 **NamanChaddha/NamanChaddha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
