@@ -1,7 +1,7 @@
-## Hi there 👋 U'm Naman
+## Hi there 👋 I'm Naman
 
-I am a Student at IIIT Bhopal,doing a parallel degree from IIT Madras  
-💻 Passionate about Web Dev & AIML.
+I am an Information Technology undergrad Student at IIIT Bhopal,doing a parallel degree from IIT Madras in Data Science.
+💻 Passionate about Web Dev & AIML. Currently building Webdev projects. 
 
 ## 🔧 Skills
 - Frontend: HTML5, CSS3, JavaScript (ES6+), Bootstrap/Tailwind CSS.
@@ -22,6 +22,8 @@ I am a Student at IIIT Bhopal,doing a parallel degree from IIT Madras
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 I specialize in building data-driven web applications using Python and MySQL, focusing on creating seamless user experiences with modern Frontend Frameworks.
+
+Codechef Rating: [![CodeChef Stats](https://codechef-details.vercel.app/api/codechef?username=YOUR_CODECHEF_ID)](https://www.codechef.com/users/neat_youth_37)
 <!--
 **NamanChaddha/NamanChaddha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
