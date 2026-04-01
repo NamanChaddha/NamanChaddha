@@ -1,6 +1,6 @@
 # Header
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=34B7EB&text=I'm%Naman%Chaddha!&height=150&fontSize=60" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=34B7EB&text=I'm Naman Chaddha!&height=150&fontSize=60" /> 
 </p>
 
 I am an Information Technology undergrad Student at IIIT Bhopal,doing a parallel degree from IIT Madras in Data Science.
